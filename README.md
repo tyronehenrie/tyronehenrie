@@ -1,5 +1,6 @@
-<!---
 - 👋 Hi, I’m @tyronehenrie
+
+<!---
 - 👀 I’m interested in making software that enhances livelihood.
 - 🌱 I’m currently learning Angular. React is better...
 - 💞️ I’m looking to collaborate on Game Development.
